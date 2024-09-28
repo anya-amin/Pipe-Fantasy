@@ -1,7 +1,10 @@
 # Pipe-Fantasy
 Major Project of Fundamentals of Computer Science 1 using the language Racket
 
-This project was the final major project of this class, in which I was tasked to create a pipe game. The goo would start flowing at around the time that the game started and the user would have to put the pipes down to connect the pipes and make it a path. Using Racket, a lot of abstract had to be used in order to assure that based on user input of their clicks, it would execute the right action.
+I created a pipe game in Racket for my final project of the class. The goal of the game was the place and arrage the different pipes in order to create a path before the green goo went through the pipes. At the bottom, the score was kept as well as a visual of the upcoming pipes that the user can place to create the path. I added real-time mechanics so that when a player clicks to place pipes or create a continuous path, the game will react accordingly to their actions. I had to handle the game-state and abstract user input into actions using Racket's functional programming features. Through this project, I gained experience managing real-time systems, successfully abstracting user input, and applying functional programming concepts to problem-solving. 
+
+
+
 
 
 
